@@ -9,3 +9,4 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 Your solution should not violate other SOLID principles.
 
 ## UML Class Diagram
+![SOLIDwithDesinPattern](https://github.com/rnnthnysy/SOLIDwithDesignPattern/assets/142371703/63977ba2-f8e6-476e-a387-6d4d2475fdf5)
